@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://github.com/MurageKabui/SambaSync/blob/main/Preview/projectLogo.png?raw=true"><br>
 </p>
-<p align="center">
+<!-- p align="center">
 	This Project allows seamless sync of data between SambaPOS and ERPNext systems.
-	<br>
-</p>
+	<br><br>
+</p-->
 
-<hr/>
+---
+<br> 
 
 ### CLI Version.
 
